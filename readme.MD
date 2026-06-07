@@ -228,9 +228,9 @@ price-elasticity-engine/
 ## ▶️ Run Locally
 
 ```bash
-git clone https://github.com/yourusername/price-elasticity-engine
+git clone https://github.com/smruti-123-lang/Retail_price_optmization
 
-cd price-elasticity-engine
+cd Retail_price_optmization
 
 pip install -r requirements.txt
 
@@ -267,12 +267,12 @@ joblib
 
 ## 👤 Author
 
-**Smruti Misra**
+**Smrutishree Misra**
 
 GitHub: https://github.com/smruti-123-lang
 
-Portfolio: https://vercel.com/smruti-123-langs-projects
+Portfolio: https://portofolio-gdua.vercel.app/
 
-LinkedIn: Add your LinkedIn profile here
+LinkedIn:https://www.linkedin.com/in/smrutishree-misra-89966b32a/
 
 ⭐ If you found this project useful, consider starring the repository.
